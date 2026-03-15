@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "愛されなくても君がいる（feat. 初音ミク）",
+  "base_artist": "ピノキオピー",
+  "createdAt": "2026-03-15T09:31:08.158934Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛されなくても君がいる (feat. 初音ミク)",
+      "artist": "PinocchioP",
+      "has_synced": true,
+      "path": "select/01_愛されなくても君がいる_(feat._初音ミク)_PinocchioP.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛されなくても君がいる (feat. 初音ミク)",
+      "artist": "PinocchioP, Miku Hatsune",
+      "has_synced": true,
+      "path": "select/02_愛されなくても君がいる_(feat._初音ミク)_PinocchioP,_Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛されなくても君がいる (feat. 初音ミク)",
+      "artist": "ピノキオピー, 初音ミク",
+      "has_synced": true,
+      "path": "select/03_愛されなくても君がいる_(feat._初音ミク)_ピノキオピー,_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛されなくても君がいる (feat. Hatsune Miku)",
+      "artist": "PinocchioP",
+      "has_synced": false,
+      "path": "select/04_愛されなくても君がいる_(feat._Hatsune_Miku)_PinocchioP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛されなくても君がいる (feat. 初音ミク)",
+      "artist": "ピノキオピー",
+      "has_synced": false,
+      "path": "select/pl_01_愛されなくても君がいる_(feat._初音ミク)_ピノキオピー.txt"
+    }
+  ]
+}
